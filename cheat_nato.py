@@ -1,4 +1,2 @@
-
-print('HACK auth seеrvers')
-print("HACK main servvers")
-print(".........")
+print('Connecting to server NATO')
+print("HACK Completed!")
